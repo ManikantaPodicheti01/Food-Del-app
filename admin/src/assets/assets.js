@@ -59,6 +59,10 @@ import food_30 from './food_30.png'
 import food_31 from './food_31.png'
 import food_32 from './food_32.png'
 
+
+
+export const url = 'https://food-del-backend-bsi8.onrender.com'
+
 export const assets ={
     logo,
     add_icon,
@@ -372,5 +376,3 @@ export const food_list=[{
     category:"Salad"
 }]
 
-
-export const url = 'http://localhost:4000'
